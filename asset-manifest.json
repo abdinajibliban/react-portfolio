@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abdinajibliban/react-portfolio.git/static/css/main.26f9e6b0.chunk.css",
+    "main.js": "/abdinajibliban/react-portfolio.git/static/js/main.6c347e23.chunk.js",
+    "main.js.map": "/abdinajibliban/react-portfolio.git/static/js/main.6c347e23.chunk.js.map",
+    "runtime-main.js": "/abdinajibliban/react-portfolio.git/static/js/runtime-main.9c7b47d0.js",
+    "runtime-main.js.map": "/abdinajibliban/react-portfolio.git/static/js/runtime-main.9c7b47d0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/abdinajibliban/react-portfolio.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a1c4d702.chunk.js": "/abdinajibliban/react-portfolio.git/static/js/2.a1c4d702.chunk.js",
+    "static/js/2.a1c4d702.chunk.js.map": "/abdinajibliban/react-portfolio.git/static/js/2.a1c4d702.chunk.js.map",
+    "static/js/3.2b40ca68.chunk.js": "/abdinajibliban/react-portfolio.git/static/js/3.2b40ca68.chunk.js",
+    "static/js/3.2b40ca68.chunk.js.map": "/abdinajibliban/react-portfolio.git/static/js/3.2b40ca68.chunk.js.map",
+    "index.html": "/abdinajibliban/react-portfolio.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/abdinajibliban/react-portfolio.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.26f9e6b0.chunk.css.map": "/abdinajibliban/react-portfolio.git/static/css/main.26f9e6b0.chunk.css.map",
+    "static/js/2.a1c4d702.chunk.js.LICENSE.txt": "/abdinajibliban/react-portfolio.git/static/js/2.a1c4d702.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c7b47d0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a1c4d702.chunk.js",
+    "static/css/main.26f9e6b0.chunk.css",
+    "static/js/main.6c347e23.chunk.js"
+  ]
+}
